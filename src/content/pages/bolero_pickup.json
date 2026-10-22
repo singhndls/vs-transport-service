@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "badge": "Bolero Pickup Service",
+    "heading1": "BOLERO PICKUP TRANSPORT",
+    "heading2": "DELHI NCR",
+    "description": "Pickup vehicle transportation for commercial goods, business deliveries and local or NCR transportation requirements. Timely and reliable service across Delhi NCR.",
+    "ctaWhatsApp": "Book Now",
+    "ctaPhone": "+91 8588806333"
+  },
+  "features": {
+    "heading": "WHY OUR",
+    "headingHighlight": "BOLERO PICKUP",
+    "headingSuffix": "STANDS OUT",
+    "items": [
+      {
+        "id": "f1",
+        "title": "Wide NCR Coverage",
+        "desc": "Serving all zones — Delhi, Noida, Gurgaon, Faridabad, Ghaziabad and beyond."
+      },
+      {
+        "id": "f2",
+        "title": "Timely & Reliable Delivery",
+        "desc": "Punctual pickups and timely and reliable delivery support across Delhi NCR."
+      },
+      {
+        "id": "f3",
+        "title": "Safe Goods Handling",
+        "desc": "Trained drivers handle your goods with care from pickup to drop."
+      },
+      {
+        "id": "f4",
+        "title": "Flexible Scheduling",
+        "desc": "Book same-day, next-day, or in advance. We work around your timeline."
+      }
+    ]
+  },
+  "useCases": {
+    "heading": "PERFECT FOR",
+    "headingHighlight": "THESE NEEDS",
+    "items": [
+      {
+        "id": "uc1",
+        "label": "Commercial goods transport"
+      },
+      {
+        "id": "uc2",
+        "label": "Furniture & appliance delivery"
+      },
+      {
+        "id": "uc3",
+        "label": "Inter-city NCR movement"
+      },
+      {
+        "id": "uc4",
+        "label": "Factory & warehouse dispatch"
+      },
+      {
+        "id": "uc5",
+        "label": "Retail stock replenishment"
+      },
+      {
+        "id": "uc6",
+        "label": "Construction material transport"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "BOOK YOUR",
+    "headingHighlight": "BOLERO PICKUP",
+    "headingSuffix": "TODAY",
+    "subtext": "Get an instant quote on WhatsApp — fast response, transparent pricing.",
+    "ctaWhatsApp": "WhatsApp for Quote",
+    "ctaPhone": "Call +91 8588806333"
+  }
+}

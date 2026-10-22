@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "eyebrow": "Fleet Transport Service",
+    "headline": "FLEET TRANSPORT",
+    "headlineAccent": "FOR BUSINESSES",
+    "body": "Scale your logistics with our comprehensive fleet solutions. Multiple vehicle types, dedicated fleet options, and business contracts designed for companies that move goods regularly across Delhi NCR."
+  },
+  "features": [
+    {
+      "id": "f1",
+      "title": "Multiple Vehicle Types",
+      "desc": "Chota Hathi, Bolero Pickup, and large trucks — right vehicle for every load."
+    },
+    {
+      "id": "f2",
+      "title": "Route Optimization",
+      "desc": "Smart routing to minimize transit time and fuel costs for your business."
+    },
+    {
+      "id": "f3",
+      "title": "Dedicated Fleet Option",
+      "desc": "Reserve dedicated vehicles for your business with priority scheduling."
+    },
+    {
+      "id": "f4",
+      "title": "Business Contracts",
+      "desc": "Monthly and annual contracts with preferential rates for regular clients."
+    }
+  ],
+  "industries": [
+    {
+      "id": "i1",
+      "name": "Manufacturing & factories"
+    },
+    {
+      "id": "i2",
+      "name": "Retail chains & distributors"
+    },
+    {
+      "id": "i3",
+      "name": "E-commerce fulfillment"
+    },
+    {
+      "id": "i4",
+      "name": "FMCG & consumer goods"
+    },
+    {
+      "id": "i5",
+      "name": "Construction materials"
+    },
+    {
+      "id": "i6",
+      "name": "Pharmaceutical & healthcare logistics"
+    },
+    {
+      "id": "i7",
+      "name": "Agricultural produce"
+    },
+    {
+      "id": "i8",
+      "name": "Industrial equipment"
+    }
+  ],
+  "cta": {
+    "headline": "READY TO SCALE YOUR",
+    "headlineAccent": "LOGISTICS?",
+    "body": "Talk to us about a custom fleet contract for your business."
+  }
+}

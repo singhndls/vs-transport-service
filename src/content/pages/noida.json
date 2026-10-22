@@ -1,0 +1,138 @@
+{
+  "hero": {
+    "eyebrow": "Noida Transport",
+    "headline": "TRANSPORT SERVICE",
+    "headlineAccent": "IN NOIDA",
+    "body": "Reliable transport and logistics for businesses in Noida. Daily Delhi–Noida runs, all vehicle types, and dedicated fleet options for IT parks, industrial sectors, and residential areas."
+  },
+  "features": [
+    {
+      "id": "f1",
+      "title": "Chota Hathi & Bolero",
+      "desc": "Mini trucks and pickup vehicles for local deliveries across all Noida sectors."
+    },
+    {
+      "id": "f2",
+      "title": "Delhi–Noida Route",
+      "desc": "Regular daily runs between Delhi and Noida with fixed competitive pricing."
+    },
+    {
+      "id": "f3",
+      "title": "24/7 Availability",
+      "desc": "Round-the-clock service for urgent and scheduled deliveries in Noida."
+    },
+    {
+      "id": "f4",
+      "title": "Safe Goods Handling",
+      "desc": "Trained drivers and careful loading ensure zero damage to your goods."
+    },
+    {
+      "id": "f5",
+      "title": "Transparent Pricing",
+      "desc": "Written quotes before every booking. No hidden charges, ever."
+    },
+    {
+      "id": "f6",
+      "title": "Full Noida Coverage",
+      "desc": "All sectors covered — Sector 18, 62, 63, 125, 137, Knowledge Park, and more."
+    }
+  ],
+  "whySection": {
+    "headline": "WHY CHOOSE US",
+    "headlineAccent": "IN NOIDA",
+    "body": "Experienced serving Delhi NCR, we know every Noida sector route, industrial zone, and IT park. Our daily Delhi–Noida runs keep your supply chain moving without delays."
+  },
+  "whyPoints": [
+    {
+      "id": "w1",
+      "text": "Daily Delhi–Noida transport runs at competitive fixed rates"
+    },
+    {
+      "id": "w2",
+      "text": "Serving Noida IT parks, industrial sectors, and residential areas"
+    },
+    {
+      "id": "w3",
+      "text": "Same-day delivery available for urgent Noida shipments"
+    },
+    {
+      "id": "w4",
+      "text": "GST invoices for all Noida business clients"
+    },
+    {
+      "id": "w5",
+      "text": "GPS-tracked vehicles for real-time visibility"
+    },
+    {
+      "id": "w6",
+      "text": "Experienced drivers familiar with all Noida sector routes"
+    }
+  ],
+  "areas": [
+    {
+      "id": "a1",
+      "name": "Sector 18"
+    },
+    {
+      "id": "a2",
+      "name": "Sector 62"
+    },
+    {
+      "id": "a3",
+      "name": "Sector 63"
+    },
+    {
+      "id": "a4",
+      "name": "Sector 125"
+    },
+    {
+      "id": "a5",
+      "name": "Sector 137"
+    },
+    {
+      "id": "a6",
+      "name": "Knowledge Park I, II, III"
+    },
+    {
+      "id": "a7",
+      "name": "Yamuna Expressway"
+    },
+    {
+      "id": "a8",
+      "name": "Greater Noida"
+    },
+    {
+      "id": "a9",
+      "name": "Noida Extension"
+    },
+    {
+      "id": "a10",
+      "name": "Sector 1–10"
+    },
+    {
+      "id": "a11",
+      "name": "Sector 44"
+    },
+    {
+      "id": "a12",
+      "name": "Sector 58–65"
+    },
+    {
+      "id": "a13",
+      "name": "Sector 100–137"
+    },
+    {
+      "id": "a14",
+      "name": "Film City"
+    },
+    {
+      "id": "a15",
+      "name": "Botanical Garden"
+    }
+  ],
+  "cta": {
+    "headline": "NEED TRANSPORT IN",
+    "headlineAccent": "NOIDA?",
+    "body": "Contact VS Transport Service today for a quick quote and reliable transport in Noida and all Delhi NCR zones."
+  }
+}

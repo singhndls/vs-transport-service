@@ -1,0 +1,270 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2208170614",
+    "searchQuery": "semi truck fleet highway night long exposure light trails transport logistics",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1084721740",
+      "https://img1.wsimg.com/isteam/getty/112156521",
+      "https://img1.wsimg.com/isteam/getty/1182081952",
+      "https://img1.wsimg.com/isteam/getty/1219789591"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T11:52:48.930Z",
+    "lastUpdated": "2026-05-28T12:09:05.739Z",
+    "gettyId": "2208170614",
+    "alternativeGettyIds": [
+      "1084721740",
+      "112156521",
+      "1182081952",
+      "1219789591"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "dramatic,bold",
+    "minimumSize": "large"
+  },
+  "pages/home/gallery-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2215778021",
+    "searchQuery": "pickup truck delivery vehicle transport goods urban India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2166003469",
+      "https://img1.wsimg.com/isteam/getty/2260401199"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T11:52:53.415Z",
+    "lastUpdated": "2026-05-28T17:44:58.464Z",
+    "gettyId": "2215778021",
+    "alternativeGettyIds": [
+      "2166003469",
+      "2260401199"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/gallery-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1493193006",
+    "searchQuery": "warehouse interior storage shelves logistics India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2222845695",
+      "https://img1.wsimg.com/isteam/getty/2226893708"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T11:52:53.951Z",
+    "lastUpdated": "2026-05-28T17:44:52.111Z",
+    "gettyId": "1493193006",
+    "alternativeGettyIds": [
+      "2222845695",
+      "2226893708"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/gallery-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1098283608",
+    "searchQuery": "truck fleet transport highway India goods delivery",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2240891003",
+      "https://img1.wsimg.com/isteam/getty/2227890684"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T11:52:54.596Z",
+    "lastUpdated": "2026-05-28T17:44:53.101Z",
+    "gettyId": "1098283608",
+    "alternativeGettyIds": [
+      "2240891003",
+      "2227890684"
+    ],
+    "orientations": "horizontal"
+  },
+  "pages/home/gallery-4": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2211686853",
+    "searchQuery": "workers loading unloading boxes truck India logistics",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/945849236",
+      "https://img1.wsimg.com/isteam/getty/2193694757"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T11:52:55.691Z",
+    "lastUpdated": "2026-05-28T17:44:53.790Z",
+    "gettyId": "2211686853",
+    "alternativeGettyIds": [
+      "945849236",
+      "2193694757"
+    ],
+    "orientations": "horizontal"
+  },
+  "blog/transport-tips-delhi-ncr": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2257055162",
+    "searchQuery": "truck transport highway Delhi India logistics goods delivery",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/600152842",
+      "https://img1.wsimg.com/isteam/getty/2230252674"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T17:24:52.784Z",
+    "lastUpdated": "2026-05-28T17:24:52.784Z",
+    "gettyId": "2257055162",
+    "alternativeGettyIds": [
+      "600152842",
+      "2230252674"
+    ],
+    "orientations": "horizontal"
+  },
+  "blog/warehouse-storage-guide": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1493193006",
+    "searchQuery": "warehouse storage facility inventory management shelves India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2271071251",
+      "https://img1.wsimg.com/isteam/getty/2226893708"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T17:24:53.740Z",
+    "lastUpdated": "2026-05-28T17:24:53.740Z",
+    "gettyId": "1493193006",
+    "alternativeGettyIds": [
+      "2271071251",
+      "2226893708"
+    ],
+    "orientations": "horizontal"
+  },
+  "blog/packers-movers-guide": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/efa21faa88ab2c3f5db8e944bb886fac.jpg",
+    "searchQuery": "packers movers household shifting boxes moving India",
+    "alternatives": [
+      "/airo-assets/uploads/1a35b0a1e7ad22cc0a404d884fd2f650.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/da0ec57a3cb2d7e06257e651bceae1e9.jpg",
+      "/airo-assets/uploads/fd0ac91aa7f8e315c5ac416e02d0f506.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-05-28T17:24:54.431Z",
+    "lastUpdated": "2026-06-28T17:18:45.243Z"
+  },
+  "pages/home/hero-video": {
+    "mediaType": "video",
+    "currentUrl": "https://blobby.wsimg.com/getty/videos/1459194964",
+    "thumbnailUrl": "https://media.gettyimages.com/id/1459194964/video/a-sliding-drone-view-of-a-red-semi-with-white-trailer-driving-down-an-interstate.mp4?b=1&s=192_srp&k=20&c=ksRglX2EnigaAj7v0w5IVqZxRpAU1VC4GOvSoiCnOL8=",
+    "searchQuery": "truck logistics transport highway delivery fleet moving",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-05-28T18:22:22.969Z",
+    "lastUpdated": "2026-05-28T18:22:22.969Z",
+    "gettyId": "1459194964"
+  },
+  "blog/loading-unloading-tips": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/eb36078498fe4900b4a8ca0ffe8f4c42.jpg",
+    "searchQuery": "workers loading cargo truck warehouse Delhi logistics",
+    "alternatives": [
+      "/airo-assets/uploads/7619b14b0bb607f51f9b7312b53ba381.jpg",
+      "/airo-assets/uploads/0921f60390294ba92988174194f79635.jpg",
+      "/airo-assets/uploads/efa21faa88ab2c3f5db8e944bb886fac.jpg",
+      "/airo-assets/uploads/1a35b0a1e7ad22cc0a404d884fd2f650.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:18:42.205Z",
+    "lastUpdated": "2026-06-28T17:18:42.205Z"
+  },
+  "blog/okhla-transport": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/7619b14b0bb607f51f9b7312b53ba381.jpg",
+    "searchQuery": "industrial area transport trucks Delhi India road freight",
+    "alternatives": [
+      "/airo-assets/uploads/0921f60390294ba92988174194f79635.jpg",
+      "/airo-assets/uploads/efa21faa88ab2c3f5db8e944bb886fac.jpg",
+      "/airo-assets/uploads/1a35b0a1e7ad22cc0a404d884fd2f650.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:18:43.151Z",
+    "lastUpdated": "2026-06-28T17:18:43.151Z"
+  },
+  "blog/chota-hathi-pickup": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/0921f60390294ba92988174194f79635.jpg",
+    "searchQuery": "small delivery truck mini truck goods transport India city",
+    "alternatives": [
+      "/airo-assets/uploads/efa21faa88ab2c3f5db8e944bb886fac.jpg",
+      "/airo-assets/uploads/1a35b0a1e7ad22cc0a404d884fd2f650.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/da0ec57a3cb2d7e06257e651bceae1e9.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:18:44.188Z",
+    "lastUpdated": "2026-06-28T17:18:44.188Z"
+  },
+  "blog/packers-movers-delhi": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/1a35b0a1e7ad22cc0a404d884fd2f650.jpg",
+    "searchQuery": "professional movers packing boxes household shifting India",
+    "alternatives": [
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/da0ec57a3cb2d7e06257e651bceae1e9.jpg",
+      "/airo-assets/uploads/fd0ac91aa7f8e315c5ac416e02d0f506.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:45:54.420Z",
+    "lastUpdated": "2026-06-28T17:45:54.420Z"
+  },
+  "blog/goods-transport-gurgaon": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+    "searchQuery": "truck delivery logistics highway India transport",
+    "alternatives": [
+      "/airo-assets/uploads/d02d45b2060ad539df80ea96e1582808.jpg",
+      "/airo-assets/uploads/da0ec57a3cb2d7e06257e651bceae1e9.jpg",
+      "/airo-assets/uploads/fd0ac91aa7f8e315c5ac416e02d0f506.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:45:55.509Z",
+    "lastUpdated": "2026-06-28T17:45:55.509Z"
+  },
+  "blog/warehouse-management-tips": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/da0ec57a3cb2d7e06257e651bceae1e9.jpg",
+    "searchQuery": "warehouse storage shelves inventory management logistics",
+    "alternatives": [
+      "/airo-assets/uploads/fd0ac91aa7f8e315c5ac416e02d0f506.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg",
+      "/airo-assets/uploads/6df4db8313f61841620eed2c5b2b435f.jpg",
+      "/airo-assets/uploads/c46b85791f2a8c4b712c278fdb986893.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:45:56.428Z",
+    "lastUpdated": "2026-06-28T17:45:56.428Z"
+  },
+  "blog/same-day-delivery-delhi": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/fd0ac91aa7f8e315c5ac416e02d0f506.jpg",
+    "searchQuery": "fast delivery courier package urban city India",
+    "alternatives": [
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg",
+      "/airo-assets/uploads/f7bc4172eb28f0e45b4e2ecd08c98f93.jpg",
+      "/airo-assets/uploads/6df4db8313f61841620eed2c5b2b435f.jpg",
+      "/airo-assets/uploads/c46b85791f2a8c4b712c278fdb986893.jpg",
+      "/airo-assets/uploads/19e2233edd50f927b9b42712017c3159.jpg"
+    ],
+    "userModified": false,
+    "createdAt": "2026-06-28T17:45:57.395Z",
+    "lastUpdated": "2026-06-28T17:45:57.395Z"
+  }
+}

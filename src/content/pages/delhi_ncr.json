@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "eyebrow": "Delhi NCR Transport",
+    "headline": "TRANSPORT SERVICE",
+    "headlineAccent": "ACROSS DELHI NCR",
+    "body": "Trusted logistics across every corner of Delhi NCR. From Dwarka to Noida, Gurgaon to Ghaziabad — we know every route, every lane, every delivery challenge."
+  },
+  "features": [
+    {
+      "id": "f1",
+      "title": "All Vehicle Types",
+      "desc": "Chota Hathi, Bolero Pickup, and large fleet trucks for any load size."
+    },
+    {
+      "id": "f2",
+      "title": "24/7 Availability",
+      "desc": "Round-the-clock service for urgent and scheduled deliveries."
+    },
+    {
+      "id": "f3",
+      "title": "Safe & Insured",
+      "desc": "Trained drivers, careful handling, and transit insurance advisory."
+    },
+    {
+      "id": "f4",
+      "title": "Transparent Pricing",
+      "desc": "No hidden charges. Written quotes before every booking."
+    }
+  ],
+  "zones": [
+    {
+      "id": "z1",
+      "zone": "Delhi",
+      "areas": "Okhla, Saket, Lajpat Nagar, Karol Bagh, Dwarka, Rohini, Connaught Place, Nehru Place"
+    },
+    {
+      "id": "z2",
+      "zone": "Noida / Greater Noida",
+      "areas": "Sector 18, 62, 63, 125, 137, Knowledge Park, Yamuna Expressway"
+    },
+    {
+      "id": "z3",
+      "zone": "Gurgaon",
+      "areas": "Cyber City, MG Road, Sohna Road, NH-48 corridor, Manesar, IMT"
+    },
+    {
+      "id": "z4",
+      "zone": "Faridabad",
+      "areas": "NIT, Sector 14–37, Ballabhgarh, Palwal, Neharpar"
+    },
+    {
+      "id": "z5",
+      "zone": "Ghaziabad",
+      "areas": "Indirapuram, Vaishali, Kaushambi, Modinagar, Hapur Road"
+    },
+    {
+      "id": "z6",
+      "zone": "Extended Zones",
+      "areas": "Neemrana, Rewari, Hasangarh, Keshavna, Uttarakhand, Haryana, Rajasthan, UP"
+    }
+  ],
+  "cta": {
+    "headline": "NEED TRANSPORT IN",
+    "headlineAccent": "DELHI NCR?",
+    "body": "WhatsApp us your pickup and drop location for an instant quote."
+  }
+}

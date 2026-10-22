@@ -1,0 +1,122 @@
+{
+  "hero": {
+    "badge": "Delhi NCR",
+    "heading1": "LOADING & UNLOADING",
+    "heading2": "SERVICE DELHI",
+    "description": "Professional loading and unloading labour across Delhi NCR. Trained workers, proper equipment, available 7 days a week. Book labour only, or combine with our transport vehicles for a complete solution.",
+    "cta_whatsapp": "Get Free Quote on WhatsApp",
+    "cta_call": "Call: +91 8588806333"
+  },
+  "features_heading1": "WHAT WE",
+  "features_heading2": "PROVIDE",
+  "features": [
+    {
+      "id": "f1",
+      "title": "Trained Labour Team",
+      "desc": "Experienced loading and unloading workers for all types of goods — fragile, heavy, or bulk."
+    },
+    {
+      "id": "f2",
+      "title": "All Goods Types",
+      "desc": "Household items, factory goods, office equipment, retail stock, and industrial machinery."
+    },
+    {
+      "id": "f3",
+      "title": "Equipment Available",
+      "desc": "Trolleys, straps, padding, and lifting equipment for safe and efficient handling."
+    },
+    {
+      "id": "f4",
+      "title": "With or Without Vehicle",
+      "desc": "Book labour only, or combine with our Chota Hathi / Bolero Pickup for a complete solution."
+    },
+    {
+      "id": "f5",
+      "title": "Same-Day Availability",
+      "desc": "Urgent loading-unloading teams available on short notice across Delhi NCR."
+    },
+    {
+      "id": "f6",
+      "title": "Safe Goods Handling",
+      "desc": "Careful handling with proper padding and securing to ensure goods are transported safely."
+    },
+    {
+      "id": "f7",
+      "title": "Affordable Rates",
+      "desc": "Hourly and per-trip pricing. Written quotes before every booking, no hidden charges."
+    },
+    {
+      "id": "f8",
+      "title": "Pan Delhi NCR",
+      "desc": "Loading and unloading services across Delhi, Noida, Gurgaon, Faridabad, and Ghaziabad."
+    }
+  ],
+  "usecases_heading1": "WHO WE",
+  "usecases_heading2": "SERVE",
+  "usecases_sub": "Our loading and unloading teams handle all types of goods for businesses and individuals.",
+  "usecases": [
+    {
+      "id": "uc1",
+      "title": "Factory & Warehouse",
+      "desc": "Bulk goods loading from factory floors and warehouse docks."
+    },
+    {
+      "id": "uc2",
+      "title": "Retail & Shop Shifting",
+      "desc": "Shop inventory loading, shifting, and unloading at new premises."
+    },
+    {
+      "id": "uc3",
+      "title": "Office Relocation",
+      "desc": "Furniture, IT equipment, and office supplies handled with care."
+    },
+    {
+      "id": "uc4",
+      "title": "Household Shifting",
+      "desc": "Home goods, appliances, and furniture loaded and unloaded safely."
+    },
+    {
+      "id": "uc5",
+      "title": "E-commerce Fulfilment",
+      "desc": "Bulk stock unloading at fulfilment centres and warehouses."
+    },
+    {
+      "id": "uc6",
+      "title": "Construction Materials",
+      "desc": "Heavy materials, tiles, cement, and equipment loading at sites."
+    }
+  ],
+  "why_heading1": "WHY CHOOSE",
+  "why_heading2": "VS TRANSPORT",
+  "why_points": [
+    {
+      "id": "wp1",
+      "text": "Trained and experienced loading workers"
+    },
+    {
+      "id": "wp2",
+      "text": "Available 7 days a week including Sundays and holidays"
+    },
+    {
+      "id": "wp3",
+      "text": "Equipment provided — trolleys, straps, padding, and ropes"
+    },
+    {
+      "id": "wp4",
+      "text": "Combine with transport vehicle for a complete one-stop solution"
+    },
+    {
+      "id": "wp5",
+      "text": "GST invoices for all business clients"
+    },
+    {
+      "id": "wp6",
+      "text": "Serving businesses across Delhi NCR"
+    }
+  ],
+  "cta_heading1": "BOOK LOADING & UNLOADING",
+  "cta_heading2": "SERVICE NOW",
+  "cta_desc": "Contact VS Transport Service for a quick quote. We respond within minutes and can deploy a team the same day.",
+  "cta_whatsapp": "WhatsApp Now",
+  "cta_call": "Call Now"
+}

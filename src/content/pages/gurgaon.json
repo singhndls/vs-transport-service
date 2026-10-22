@@ -1,0 +1,134 @@
+{
+  "hero": {
+    "eyebrow": "Gurgaon Transport",
+    "headline": "TRANSPORT SERVICE",
+    "headlineAccent": "IN GURGAON",
+    "body": "Reliable transport and logistics for businesses in Gurgaon. Daily Delhi–Gurgaon runs on NH-48, all vehicle types, and dedicated fleet options for corporate and industrial clients."
+  },
+  "features": [
+    {
+      "id": "f1",
+      "title": "All Vehicle Types",
+      "desc": "Chota Hathi, Bolero Pickup, and large fleet trucks for Gurgaon deliveries."
+    },
+    {
+      "id": "f2",
+      "title": "Delhi–Gurgaon Route",
+      "desc": "Regular daily runs on the Delhi–Gurgaon NH-48 corridor with fixed pricing."
+    },
+    {
+      "id": "f3",
+      "title": "24/7 Availability",
+      "desc": "Round-the-clock service for urgent and scheduled Gurgaon deliveries."
+    },
+    {
+      "id": "f4",
+      "title": "Safe Goods Handling",
+      "desc": "Trained drivers and careful loading ensure zero damage to your goods."
+    },
+    {
+      "id": "f5",
+      "title": "Transparent Pricing",
+      "desc": "Written quotes before every booking. No hidden charges, ever."
+    },
+    {
+      "id": "f6",
+      "title": "Full Gurgaon Coverage",
+      "desc": "Cyber City, MG Road, Sohna Road, Manesar, IMT, and all major zones."
+    }
+  ],
+  "whySection": {
+    "headline": "WHY CHOOSE US",
+    "headlineAccent": "IN GURGAON",
+    "body": "Experienced on the Delhi–Gurgaon corridor, we understand the toll routes, traffic patterns, and delivery windows that Gurgaon businesses depend on."
+  },
+  "whyPoints": [
+    {
+      "id": "w1",
+      "text": "Daily Delhi–Gurgaon transport runs on NH-48 at competitive rates"
+    },
+    {
+      "id": "w2",
+      "text": "Serving Gurgaon corporate offices, IT parks, and industrial zones"
+    },
+    {
+      "id": "w3",
+      "text": "Same-day delivery available for urgent Gurgaon shipments"
+    },
+    {
+      "id": "w4",
+      "text": "GST invoices for all Gurgaon business clients"
+    },
+    {
+      "id": "w5",
+      "text": "GPS-tracked vehicles for real-time shipment visibility"
+    },
+    {
+      "id": "w6",
+      "text": "Experienced drivers familiar with Gurgaon toll routes and traffic patterns"
+    }
+  ],
+  "areas": [
+    {
+      "id": "a1",
+      "name": "Cyber City / DLF"
+    },
+    {
+      "id": "a2",
+      "name": "MG Road"
+    },
+    {
+      "id": "a3",
+      "name": "Sohna Road"
+    },
+    {
+      "id": "a4",
+      "name": "NH-48 Corridor"
+    },
+    {
+      "id": "a5",
+      "name": "Manesar"
+    },
+    {
+      "id": "a6",
+      "name": "IMT Manesar"
+    },
+    {
+      "id": "a7",
+      "name": "Udyog Vihar"
+    },
+    {
+      "id": "a8",
+      "name": "Sector 14–57"
+    },
+    {
+      "id": "a9",
+      "name": "Golf Course Road"
+    },
+    {
+      "id": "a10",
+      "name": "Palam Vihar"
+    },
+    {
+      "id": "a11",
+      "name": "Dwarka Expressway"
+    },
+    {
+      "id": "a12",
+      "name": "Farrukhnagar"
+    },
+    {
+      "id": "a13",
+      "name": "Bilaspur"
+    },
+    {
+      "id": "a14",
+      "name": "Rewari Road"
+    }
+  ],
+  "cta": {
+    "headline": "NEED TRANSPORT IN",
+    "headlineAccent": "GURGAON?",
+    "body": "Contact VS Transport Service today for a quick quote and reliable transport in Gurgaon and all Delhi NCR zones."
+  }
+}
