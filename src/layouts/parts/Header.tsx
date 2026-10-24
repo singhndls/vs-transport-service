@@ -15,6 +15,9 @@ const serviceLinks = [{
   href: '/services/fleet-transport',
   label: 'Fleet Transport'
 }, {
+  href: '/services/corporate-taxi',
+  label: 'Corporate Monthly Taxi Service'
+ }, {
   href: '/services/delhi-ncr',
   label: 'Delhi NCR Transport'
 }];
