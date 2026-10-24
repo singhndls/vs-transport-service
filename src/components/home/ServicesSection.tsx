@@ -61,11 +61,12 @@ const services = [
     accentBorder: 'rgba(168,85,247,0.25)',
     accentHover: 'rgba(168,85,247,0.15)',
   },
-  {
-    icon: Car,
-    number: '05',
-    title: 'Corporate Monthly Taxi Service',
-    tagline: 'Fixed Monthly Contracts for Companies',
+    {
+  icon: Car,
+  number: '05',
+  title: 'Corporate Monthly Taxi Service',
+  link: '/services/corporate-taxi',
+  tagline: 'Fixed Monthly Contracts for Companies',
     desc: 'Reliable corporate taxi service across Delhi NCR for companies, offices and business establishments. Monthly fixed contracts with routes, duty hours and contract terms agreed in advance. Individual on-demand bookings are not offered.',
     features: [
       'Monthly fixed contracts',
