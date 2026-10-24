@@ -61,6 +61,24 @@ const services = [
     accentBorder: 'rgba(168,85,247,0.25)',
     accentHover: 'rgba(168,85,247,0.15)',
   },
+  {
+    icon: Car,
+    number: '05',
+    title: 'Corporate Monthly Taxi Service',
+    tagline: 'Fixed Monthly Contracts for Companies',
+    desc: 'Reliable corporate taxi service across Delhi NCR for companies, offices and business establishments. Monthly fixed contracts with routes, duty hours and contract terms agreed in advance. Individual on-demand bookings are not offered.',
+    features: [
+      'Monthly fixed contracts',
+      'Corporate office travel',
+      'Pre-agreed routes & duty hours',
+      'Delhi NCR coverage',
+    ],
+    accentColor: '#06B6D4',
+    accentBg: 'rgba(6,182,212,0.08)',
+    accentBorder: 'rgba(6,182,212,0.25)',
+    accentHover: 'rgba(6,182,212,0.15)',
+  },
+
 ];
 
 export default function ServicesSection() {
