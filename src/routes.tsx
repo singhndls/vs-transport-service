@@ -14,6 +14,7 @@ const OkhlaPage = lazy(() => import('./pages/services/Okhla'));
 const NoidaPage = lazy(() => import('./pages/services/Noida'));
 const GurgaonPage = lazy(() => import('./pages/services/Gurgaon'));
 const LoadingUnloadingPage = lazy(() => import('./pages/services/LoadingUnloading'));
+const TaxiServicePage = lazy(() => import('./pages/services/TaxiService'));
 const PrivacyPolicyPage = lazy(() => import('./pages/PrivacyPolicy'));
 const TermsConditionsPage = lazy(() => import('./pages/TermsConditions'));
 export const routes: RouteObject[] = [{
@@ -52,6 +53,9 @@ export const routes: RouteObject[] = [{
 }, {
   path: '/services/loading-unloading',
   element: <LoadingUnloadingPage />
+ }, {
+  path: '/services/corporate-taxi',
+  element: <TaxiServicePage />
 }, {
   path: '/privacy-policy',
   element: <PrivacyPolicyPage />
@@ -62,5 +66,5 @@ export const routes: RouteObject[] = [{
   path: '*',
   element: <NotFoundPage />
 }];
-export type Path = '/' | '/blog' | `/blog/${string}` | '/services/chota-hathi' | '/services/bolero-pickup' | '/services/warehouse' | '/services/fleet-transport' | '/services/delhi-ncr' | '/services/okhla' | '/services/noida' | '/services/gurgaon' | '/services/loading-unloading' | '/privacy-policy' | '/terms';
+export type Path = '/' | '/blog' | `/blog/${string}` | '/services/chota-hathi' | '/services/bolero-pickup' | '/services/warehouse' | '/services/fleet-transport' | '/services/delhi-ncr' | '/services/okhla' | '/services/noida' | '/services/gurgaon' | '/services/loading-unloading' | '/services/corporate-taxi' | '/privacy-policy' | '/terms';
 export type Params = Record<string, string | undefined>;
