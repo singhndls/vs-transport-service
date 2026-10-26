@@ -42,8 +42,7 @@ export default function AboutSection() {
             className="relative"
           >
             <div className="relative rounded-2xl overflow-hidden">
-              <img
-                src="/airo-assets/images/pages/home/gallery-2"
+              <imgsrc="/assets/Reliable%20Transport%20Service%20Banner.png"
                 alt="VS Transport warehouse team at work"
                 className="w-full aspect-[4/3] object-cover"
               />
